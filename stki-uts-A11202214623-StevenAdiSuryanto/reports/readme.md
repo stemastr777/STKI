@@ -1,3 +1,4 @@
+```
 Struktur projek:
     ├───app             -> berisi chat.py untuk antarmuka (CLI based)
     ├───data            -> berisi data yang digunakan
@@ -7,7 +8,7 @@ Struktur projek:
     │   └───images      -> kumpulan gambar yang digunakan dalam notebook utama
     ├───reports         -> berisi informasi untuk menjalankan projek ini
     └───src             -> berisi source code berupa python script
-
+```
 
 NOTE:
   - `requirements.txt` menjamin bahwa seluruh *.py dan notebook utama dapat dijalankan, namun tidak menjamin notebook di dev-only dapat dijalankan.
