@@ -1,0 +1,6 @@
+nltk==3.9.2
+numpy==2.3.4
+pandas==2.3.3
+Sastrawi==1.0.1
+scikit_learn==1.4.2
+scipy==1.16.3
